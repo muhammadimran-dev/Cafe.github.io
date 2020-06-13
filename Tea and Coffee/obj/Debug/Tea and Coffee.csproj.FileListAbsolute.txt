@@ -1,0 +1,18 @@
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\Tea and Coffee.exe.config
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\Tea and Coffee.exe
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\Tea and Coffee.pdb
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\MySql.Data.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\Google.Protobuf.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\Renci.SshNet.dll
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\bin\Debug\MySql.Data.xml
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea and Coffee.csprojResolveAssemblyReference.cache
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.Form1.resources
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.registerform.resources
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.OrderItems.resources
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.OrderPlace.resources
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.Properties.Resources.resources
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea and Coffee.csproj.GenerateResource.Cache
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea and Coffee.exe
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea and Coffee.pdb
+c:\users\muhammad imran\documents\visual studio 2015\Projects\Tea and Coffee\Tea and Coffee\obj\Debug\Tea_and_Coffee.aboutform.resources
